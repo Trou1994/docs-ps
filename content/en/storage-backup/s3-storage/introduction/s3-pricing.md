@@ -3,7 +3,7 @@ title: "S3 Pricing and Storage Policies"
 linkTitle: "S3 Pricing and Policies"
 type: "docs"
 weight: 20
-date: "2024-02-06"
+date: "2024-10-15"
 ---
 Here you will find the prices for the various service classes of our PlusServer S3 service.
 
